@@ -1,0 +1,16 @@
+{
+  "name": "my_proyect_time",
+  "version": "1.0.0",
+  "description": "my proyect time",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "git",
+    "time",
+    "js"
+  ],
+  "author": "Ariday Morales",
+  "license": "MIT"
+}
